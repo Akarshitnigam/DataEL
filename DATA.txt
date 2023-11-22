@@ -1,4 +1,7 @@
-[ SQL, Advanced SQL skills, Python Skills, Pyspark, AWS, AWS Services pipelines and all, Glue, ]
+[ SQL,Snowflake or Athena Database in AWS, Advanced SQL skills, Python Skills, Pyspark, Joins in Pyspark,
+ How to process the data in chunks, in batch and in incremental order, in batch transaction and in stream transaction,
+
+ Data Cleaning in pyspark, AWS, AWS Services pipelines and all, Glue, ]
 
 
 
